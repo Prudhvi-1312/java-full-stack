@@ -1,13 +1,29 @@
 h2 {
-margin-left: 270px;
+margin-left: 100px;
+margin-right: 100px;
+text-align: center;
 font-family: 'Courier New', Courier, monospace;
 color:brown ;
-padding-left:60px ;
-border: solid gray;
+font-size: xx-large;
+padding-left: 10px;
+padding-right: 10px;
 }
 body{
     background-color: antiquewhite;
 }
 label{
+    margin-left: 100px;
     padding-left: 190px;
+    color:chocolate;
+}
+input{
+margin-right:120 px;
+    margin-left:235px;
+}
+input gender{
+    margin-left: 0px;
+    margin-right: px;
+}
+button{
+
 }

@@ -1,3 +1,13 @@
-p{
-
-0}
+h2 {
+margin-left: 270px;
+font-family: 'Courier New', Courier, monospace;
+color:brown ;
+padding-left:60px ;
+border: solid gray;
+}
+body{
+    background-color: antiquewhite;
+}
+label{
+    padding-left: 190px;
+}

@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(69,123,237);
+}
+.nav{
+    height: 10%;
+    background-color:rgb(115,154,238);
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:35px 55px;
+}
+.nav h1{
+font-family:Arial, Helvetica, sans-serif ;
+font-weight: 700;
+}
+
+.nav a{
+    text-decoration: none;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 8px;
+    padding-right: 20px;
+    font-size:larger;
+}
+.hero h1{
+    color: aliceblue;
+    font-size: 50px;
+    
+}
+.hero button{
+    background-color: #072055;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 12px;
+}
+.main{
+display: flex;
+justify-content: space-between;
+padding: 100px 50px;
+}
+img{
+    height:500px;
+}
